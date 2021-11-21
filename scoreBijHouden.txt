@@ -1,0 +1,8 @@
+PlayerA has the following score: 	0
+PlayerB has the following score: 	1
+
+3JAzeQwY0QCK3XU6BgwrdDT4ogizDkD+yPVvaEWA2upIIWqQD3iS4P3C/FVGD/rB	nLKBuiH9OWyU2RnIcst+HQ==
+hgLQwjXUVJmA2dp0wPelUzT4ogizDkD+yPVvaEWA2upIIWqQD3iS4P3C/FVGD/rB	P2LUzC0QQWoSpFk34womPQ==
+
+PlayerA has the following score: 		0
+PlayerB has the following score: 		1
