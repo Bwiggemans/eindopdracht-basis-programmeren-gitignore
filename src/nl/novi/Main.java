@@ -30,7 +30,7 @@ public class Main {
         //Step 2: play game:
         while (hasWon == false){
             GenerateNumber generateNumber = new GenerateNumber();
-            System.out.println("Guess the random number between 0 and 3 and win the game! " + generateNumber.getRandomNumber());
+            System.out.println("Guess the random number between 0 and 3 and win the game! ");
 
             Scanner userInput = new Scanner(System.in);
 
